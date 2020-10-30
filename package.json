@@ -1,0 +1,25 @@
+{
+  "name": "get-weather",
+  "version": "1.0.0",
+  "description": "Get  weather info of different locations passed as an array",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kelvin-sudani/get-weather.git"
+  },
+  "keywords": [],
+  "author": "kelvin.sudani@trootech.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kelvin-sudani/get-weather/issues"
+  },
+  "homepage": "https://github.com/kelvin-sudani/get-weather#readme",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "dotenv": "^8.2.0"
+  }
+}
